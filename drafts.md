@@ -1,0 +1,10 @@
+# Commenting on Drafts
+
+Since your course will place a great deal of emphasis on process and revision, we encourage you to read and comment on students’ rough drafts.  Students often need help and encouragement to work through the initial difficulties of interpreting assignment and writing a comprehensive essay in response to the particular questions posed.  Here are a few considerations to help student explore and articulate their ideas more fully:
+
+Reacquaint yourself with the writing assignment and grading criteria.  Before commenting on rough drafts, reread the writing assignment.  In order to comment effectively and provide direction for revision, you’ll need to have a clear understanding of what you have asked them to do in their writing, as well as the criteria you will be using when you evaluate their final drafts.
+
+Develop an understanding of the moves the writer is making in the rough draft.  Your main goals in reading the rough draft are to get a handle on how the writer is approaching the assignment and to understand how the writer is developing his or her ideas.  This can be frustrating, since much of what you’ll see in a rough draft is the writer working out his or her idea on paper.  Still, understanding where the writer is coming from is a crucial first step in developing some common ground for the comments you will make on the rough draft.  Aim to imagine the strongest essay that the student could write from this draft and to help him/her envision that goal, too, and gather the energy to work toward it.
+
+
+Attend to more global issues like focus and organization.  Commenting on rough drafts is not the time to put a student paper under the microscope; unless you see a pattern of error, you might want to avoid correcting spelling, grammar, and punctuation.  Students can refine these areas as they work through subsequent drafts.  Use your comments on the rough draft as a way to encourage the writer to refine the focus and organization of the paper and to follow productive lines of inquiry that are emerging in the draft.

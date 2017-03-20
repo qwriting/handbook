@@ -1,0 +1,6 @@
+# Final Thoughts
+
+Teaching citation practices doesn’t need to be a tedious bore, as these activities show.  And while all of them discuss MLA citation practices, it’s not necessary to ask your students to use MLA only (although it’s perfectly ok to require them to do so).  Some of your students might be in disciplines which use APA or Chicago—you might encourage them to learn these practices instead, and to report to the class the differences between the style they are using and MLA.  Some of your students might take their second writing course (EC2) in a different discipline, where they will practice a different mode of citation.  You should prepare them for this possibility by showing them examples of the citation practices that you don’t explicitly require, and explaining the rationale behind those differences.
+
+Examining these differences can lead to interesting discussions of which types of knowledge disciplines seem to value.  Of course, it’s not necessary to do this, and may lead to a bit of a headache during grading, since you will need to be familiar with the styles your students may choose.  A helpful site for students and instructors alike is [the Purdue OWL](http://owl.english.purdue.edu/owl/).
+

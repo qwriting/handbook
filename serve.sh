@@ -1,0 +1,2 @@
+rm .\#*
+gitbook serve
