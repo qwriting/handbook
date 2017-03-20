@@ -1,0 +1,22 @@
+# Writing Exercises
+
+A.  In-class Writing 
+
+By making writing an essential component of every class, we help our students to become less afraid of (and more practiced in) writing.  Not all writing needs to be graded; indeed, it does no harm to dissociate writing from grading.  For short assignments and exercises that you glance over rather than analyze, a check/plus/minus system of marking is sufficient.  You don’t even have to read all student writing; often, other students constitute the best audience for generative, informal writing tasks.  Ask your students to write as much and as often as possible, and ask them to read each other’s writing.  Frequent informal writing—in class and as homework—helps students see that reading and writing are interactive, recursive processes rather than separate, static chores. 
+
+B.  Peer Reading and Revision Activities
+
+The use of peer reading and revision groups or pairs helps students to become more conscious of the revision process, exposes them to their peers’ writing, and teaches them to read carefully.  Especially in the first weeks of class, it is essential that you give your students a handout with prompts that guide their responses.  (Your peers and officemates will have guidelines on file—don’t hesitate to ask them for samples. There are also some samples in Appendix V.)  Such activities should ask for more than correcting mechanical errors; students should be encouraged to focus on the elements of composition that you are working on at that particular time of the semester, such as argument, paragraph organization, source integration, and other larger issues.  Moreover, you will want to set up specific rules for the process.  Peer reading should not devolve into a “how do I tear this paper to shreds?” session; nor are writers helped by responses suggesting that they shouldn’t change a word.  You might want to model responses that are humanely and respectfully critical, so that students understand what to aim for in their comments.
+
+Consider whether you want students to work with different partners in each session, or instead prefer to create permanent writing groups or pairs.  Students who switch partners for each session will be exposed to a wider variety of writing styles, while students placed in permanent groups may build a stable, more productive relationship with their partners.  
+
+At first, students may be reluctant to criticize and revise their neighbor’s work.  Make it clear that their job is not to offer a teacherly evaluation of their partner’s work, but rather to identify the partner’s purpose and help the partner’s writing express that purpose as clearly and persuasively as possible.  During the revision workshop, you should monitor the class carefully, going from group to group, to insure that each student receives helpful responses.
+
+To send the message that peer revision is an activity to be taken seriously, you can collect the revision sheets along with the final draft of the paper, and then evaluate both the revised essay and the peer reviewer’s suggestions.  When you are grading the revised essays, keep in mind that not all revision workshop suggestions are necessarily improvements (so be critical of both the author and the peer reader).
+
+C.  Quizzes
+
+Quizzes represent one way to ascertain whether your students are doing the out-of-class work you assign.  
+
+Sometimes letting students know that class will begin with a quiz that texts their knowledge of the assigned reading might be a way to encourage them to arrive to class on time prepared to discuss the assignment. You can also get the same information in other ways, and you can insure that students read assigned material by asking for written work in conjunction with the reading.  Springing quizzes on students as a way of punishing them for not doing assigned work may create ill will, and it may treat the symptoms of a problem rather than the problem itself.  If, for example, you find that most students aren’t doing the assigned reading, you may want to ask yourself if you’re assigning too much reading, and whether you’re taking enough class time to work through the readings you have assigned. Often, students will find no incentive to read if you ignore assigned readings during class or fail to show how their reading will help them with their writing. You might reassure students that the reading was worth the effort by assigning low-stakes writing assignments about the reading in class.
+

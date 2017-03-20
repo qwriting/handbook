@@ -1,0 +1,6 @@
+# Lecture
+
+Useful lectures present material that cannot be integrated in discussion, clarify difficult concepts, provide background information, and synthesize covered material.  All of us know as auditors that it’s difficult to retain information presented in a long, rambling lecture read in a monotone. And we generally keep lectures to a minimum in writing classes, where we put the emphasis on students’ rhetorical practices.
+
+ Effective lecturers try to keep lectures short and focused, to vary their pace and register, to speak (audibly and clearly) rather than read out loud, and to keep an eye on audience reactions (if you see many puzzled faces, stop and ask what is unclear).  Examples and analogies help make abstract information accessible.  Use of the chalkboard or whiteboard, a powerpoint presentation, or a handout to outline your main points will greatly facilitate your students’ ability to take useful notes.  While discussion is probably the most common format in the first year writing classroom, you need not shy away from lecturing.  A lecture can be a great summarizing device, and your students will be grateful when you present large chunks of material in a concise, coherent survey.
+ 
