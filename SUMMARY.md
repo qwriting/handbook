@@ -1,7 +1,8 @@
 * Table of Contents
 <br><br>
 
-* [Introduction](README.md)  
+* [Title Page](README.md)  
+* [Introduction](introduction.md)  
   * [How to Use This Guide](how_to_use.md)  
   * [Support for Instructors](support.md)  
   * [Goals of English 110\/College Writing 1](goals.md)  

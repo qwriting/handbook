@@ -1,3 +1,5 @@
-# Introduction
-
-Welcome to the other side of the desk!  We hope that you will find your experience teaching at Queens College as rewarding as it is challenging.  While the principles guiding instruction in our writing classes rest on a firm foundation of pedagogical and rhetorical theory, The Other Side of the Desk concentrates on the practical elements of teaching our writing courses.  This handbook describes the work that you’ll do as a writing instructor, and offers detailed advice about how to perform them.  Its tips and common-sense directives represent the accumulated wisdom of many instructors.  We recognize that, because all teachers tailor their practices to their personalities, values, and goals, you may respond to some suggestions herein with skepticism or outright disagreement.  We further recognize that this handbook imagines those who have never taught at the college level as its primary audience, even though many instructors might have such experience.  Nevertheless, we hope that you will find this a humane and helpful guide. If you have questions along the way, please don’t hesitate to bring them to us—the Directors of First Year Writing.
+<br>
+<h1>The Other Side of the Desk:</h1>
+***
+<h2>A Handbook for Instructors<br>
+of First Year Writing</h2>
